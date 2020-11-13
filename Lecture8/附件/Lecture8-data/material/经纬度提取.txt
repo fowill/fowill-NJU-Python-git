@@ -1,0 +1,104 @@
+[{"lat":"31.271893","lng":"121.410086","lodgeunitid":"3729577630","html":"
+<\/div><\/a>
+¥287<\/i> <\/span><\/a><\/span>
+\u4e0a\u6d77\u897f\u7ad9\u72ec\u7acb\u5355\u95f4\uff0c\u4e0b\u5355\u524d\u8bf7\u5148\u54a8\u8be2<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 5\u5206\/31\u6761\u8bc4\u8bba<\/em><\/i>\u957f\u79df\u4f18\u60e0<\/span><\/i>\u4f18\u54c1<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261428","lng":"121.411493","lodgeunitid":"111759605001","html":"
+<<\/a>3\/3<\/span>><\/a><\/div>
+<\/div><\/a>
+¥138<\/i> <\/span><\/a><\/span>
+B\u3010\u7eff\u7fe1\u7fe0\u3011\u7cbe\u88c5\u5367\u5ba4\uff0c\u9644\u8fd1\u771f\u5982\u5730\u94c1\u7ad9\uff0c\u661f\u5149\u8000<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261428","lng":"121.411493","lodgeunitid":"111760036601","html":"
+<<\/a>2\/3<\/span>><\/a><\/div>
+<\/div><\/a>
+¥159<\/i> <\/span><\/a><\/span>
+C\u3010\u7eff\u7fe1\u7fe0\u3011\u8d85\u5927\u7cbe\u88c5\u5367\u5ba4\u5e26\u9633\u53f0\uff0c\u6b27\u5f0f\u98ce\u683c<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 1\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261428","lng":"121.411493","lodgeunitid":"111759171303","html":"
+<<\/a>1\/3<\/span>><\/a><\/div>
+<\/div><\/a>
+¥156<\/i> <\/span><\/a><\/span>
+A\u3010\u7eff\u7fe1\u7fe0\u3011\u7cbe\u88c5\u671d\u5357\u8d85\u5927\u4e3b\u5367\uff0c\u6027\u4ef7\u6bd4\u5f88\u9ad8<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.267055","lng":"121.41111","lodgeunitid":"15346001003","html":"
+<\/div><\/a>
+¥249<\/i> <\/span><\/a><\/span>
+\u4e0a\u6d77\u897f\u7ad9\u661f\u5149\u8000\u5e7f\u573a 11\u53f7\u7ebf \u5355\u95f4\u671d\u5357\u6709\u9633\u53f0<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 4.9\u5206\/8\u6761\u8bc4\u8bba<\/em> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261428","lng":"121.411493","lodgeunitid":"111760036601","html":"
+<<\/a>2\/2<\/span>><\/a><\/div>
+<\/div><\/a>
+¥159<\/i> <\/span><\/a><\/span>
+C\u3010\u7eff\u7fe1\u7fe0\u3011\u8d85\u5927\u7cbe\u88c5\u5367\u5ba4\u5e26\u9633\u53f0\uff0c\u6b27\u5f0f\u98ce\u683c<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 1\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261428","lng":"121.411493","lodgeunitid":"111759171303","html":"
+<<\/a>1\/2<\/span>><\/a><\/div>
+<\/div><\/a>
+¥156<\/i> <\/span><\/a><\/span>
+A\u3010\u7eff\u7fe1\u7fe0\u3011\u7cbe\u88c5\u671d\u5357\u8d85\u5927\u4e3b\u5367\uff0c\u6027\u4ef7\u6bd4\u5f88\u9ad8<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.266407","lng":"121.412646","lodgeunitid":"32190137603","html":"
+<\/div><\/a>
+¥398<\/i>\u8d77\/\u665a <\/span><\/a><\/span>
+\u4e0a\u6d77\u897f\u7ad911\u53f7\u7ebf\u5730\u94c1\u65c1\u5bbd\u655e\u4e24\u5c45\u5ba4\u590d\u53e4\u8303\u513f\u6574\u79df<\/span><\/a>\u6574\u5957\u51fa\u79df\/2\u5ba41\u5385\/2\u5f20\u5e8a\/\u5b9c\u4f4f4\u4eba - 5\u5206\/26\u6761\u8bc4\u8bba<\/em> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261428","lng":"121.411493","lodgeunitid":"111759171303","html":"
+<\/div><\/a>
+¥156<\/i> <\/span><\/a><\/span>
+A\u3010\u7eff\u7fe1\u7fe0\u3011\u7cbe\u88c5\u671d\u5357\u8d85\u5927\u4e3b\u5367\uff0c\u6027\u4ef7\u6bd4\u5f88\u9ad8<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.263552","lng":"121.406304","lodgeunitid":"2758761263","html":"
+<\/div><\/a>
+¥248<\/i> <\/span><\/a><\/span>
+\u3010\u957f\u79df\u3011\u4e0a\u6d77\u897f\u7ad9\u3001\u540c\u6d4e\u5927\u5b66\u9644\u5c5e\u533b\u9662\u3001\u513f\u7ae5\u533b\u9662<\/span><\/a>\u6574\u5957\u51fa\u79df\/1\u5ba41\u5385\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 4.9\u5206\/12\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span><\/i>\u957f\u79df\u4f18\u60e0<\/span><\/i>\u4f18\u54c1<\/span><\/i>\u5546\u65c5\u9996\u9009<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261264","lng":"121.409138","lodgeunitid":"124536580403","html":"
+<\/div><\/a>
+¥268<\/i> <\/span><\/a><\/span>
+\u8fea\u65af\u5c3c11\u53f7\u7ebf\u771f\u5982\u7ad9\u7cbe\u54c1loft\u5927\u6b21\u5367<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f1\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110820786001","html":"
+<<\/a>4\/4<\/span>><\/a><\/div>
+<\/div><\/a>
+¥126<\/i> <\/span><\/a><\/span>
+B2\u3010\u7eff\u7fe1\u7fe0\u3011\u8fd111\u53f7\u771f\u5982\u7ad9\uff0c\u9ec4\u91d1\u697c\u5c42\u91c7\u5149\u597d<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"111085931001","html":"
+<<\/a>3\/4<\/span>><\/a><\/div>
+<\/div><\/a>
+¥136<\/i> <\/span><\/a><\/span>
+C2\u3010\u7eff\u7fe1\u7fe0\u3011\u8fd111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u8d85\u5927\u95f4\u3002<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 1\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110821358001","html":"
+<<\/a>2\/4<\/span>><\/a><\/div>
+<\/div><\/a>
+¥126<\/i> <\/span><\/a><\/span>
+D2\u3010\u7eff\u7fe1\u7fe0\u3011\u8fd111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5367\u5ba4\u91c7\u5149\u597d<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110723763203","html":"
+<<\/a>1\/4<\/span>><\/a><\/div>
+<\/div><\/a>
+¥136<\/i> <\/span><\/a><\/span>
+A2\u3010\u7eff\u7fe1\u7fe0\u301111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5927\u5367\u5ba4\u3002<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"111085931001","html":"
+<<\/a>3\/3<\/span>><\/a><\/div>
+<\/div><\/a>
+¥136<\/i> <\/span><\/a><\/span>
+C2\u3010\u7eff\u7fe1\u7fe0\u3011\u8fd111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u8d85\u5927\u95f4\u3002<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 1\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110821358001","html":"
+<<\/a>2\/3<\/span>><\/a><\/div>
+<\/div><\/a>
+¥126<\/i> <\/span><\/a><\/span>
+D2\u3010\u7eff\u7fe1\u7fe0\u3011\u8fd111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5367\u5ba4\u91c7\u5149\u597d<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110723763203","html":"
+<<\/a>1\/3<\/span>><\/a><\/div>
+<\/div><\/a>
+¥136<\/i> <\/span><\/a><\/span>
+A2\u3010\u7eff\u7fe1\u7fe0\u301111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5927\u5367\u5ba4\u3002<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.266172","lng":"121.409254","lodgeunitid":"40354067201","html":"
+<\/div><\/a>
+¥99<\/i> <\/span><\/a><\/span>
+\u5f17\u6d1b\u5c0f\u7a9d - 11\u53f7\u7ebf\u4e0a\u6d77\u897f\u7ad9\u5730\u94c1\u7ad9<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f1\u4eba - 4.9\u5206\/4\u6761\u8bc4\u8bba<\/em><\/i>\u957f\u79df\u4f18\u60e0<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110821358001","html":"
+<<\/a>2\/2<\/span>><\/a><\/div>
+<\/div><\/a>
+¥126<\/i> <\/span><\/a><\/span>
+D2\u3010\u7eff\u7fe1\u7fe0\u3011\u8fd111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5367\u5ba4\u91c7\u5149\u597d<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110723763203","html":"
+<<\/a>1\/2<\/span>><\/a><\/div>
+<\/div><\/a>
+¥136<\/i> <\/span><\/a><\/span>
+A2\u3010\u7eff\u7fe1\u7fe0\u301111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5927\u5367\u5ba4\u3002<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261034","lng":"121.411691","lodgeunitid":"110723763203","html":"
+<\/div><\/a>
+¥136<\/i> <\/span><\/a><\/span>
+A2\u3010\u7eff\u7fe1\u7fe0\u301111\u53f7\u771f\u5982\u7ad9\uff0c\u671d\u5357\u5927\u5367\u5ba4\u3002<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.263592","lng":"121.411377","lodgeunitid":"117332945301","html":"
+<\/div><\/a>
+¥215<\/i> <\/span><\/a><\/span>
+\u534e\u6676\u4e3b\u9898\u6c11\u5bbf \u7cbe\u54c1\u5927\u5e8a\u623f<\/span><\/a>\u6574\u5957\u51fa\u79df\/1\u5ba40\u5385\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 1\u6761\u8bc4\u8bba<\/em> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261318","lng":"121.413403","lodgeunitid":"104781848701","html":"
+<<\/a>2\/2<\/span>><\/a><\/div>
+<\/div><\/a>
+¥280<\/i> <\/span><\/a><\/span>
+\u771f\u5982\u5730\u94c1\u9ad8\u5c1a\u4e00\u623f<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261318","lng":"121.413403","lodgeunitid":"104777466203","html":"
+<<\/a>1\/2<\/span>><\/a><\/div>
+<\/div><\/a>
+¥328<\/i> <\/span><\/a><\/span>
+\u771f\u5982\u5730\u94c1\uff0c\u9ad8\u6863\u5c0f\u533a<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261318","lng":"121.413403","lodgeunitid":"104777466203","html":"
+<\/div><\/a>
+¥328<\/i> <\/span><\/a><\/span>
+\u771f\u5982\u5730\u94c1\uff0c\u9ad8\u6863\u5c0f\u533a<\/span><\/a>\u72ec\u7acb\u5355\u95f4\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.261137","lng":"121.415184","lodgeunitid":"44889096103","html":"
+<\/div><\/a>
+¥1200<\/i> <\/span><\/a><\/span>
+\u3010\u6781\u7b80\u3011200\u5e735\u5e8a3\u536b\uff0c\u5730\u94c1\u76f4\u8fbe\u8fea\u58eb\u5c3c<\/span><\/a>\u6574\u5957\u51fa\u79df\/4\u5ba42\u5385\/5\u5f20\u5e8a\/\u5b9c\u4f4f8\u4eba - 0\u6761\u8bc4\u8bba<\/em><\/i>\u901f\u8ba2<\/span> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.266633","lng":"121.406314","lodgeunitid":"108748027903","html":"
+<\/div><\/a>
+¥320<\/i> <\/span><\/a><\/span>
+17\u53f7\u5730\u94c1\u897f\u7ad9\u9633\u5149\u5145\u6c9b1\u5ba41\u5385\u5927\u5e8a\u623f\u6574\u79df<\/span><\/a>\u6574\u5957\u51fa\u79df\/1\u5ba40\u5385\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 0\u6761\u8bc4\u8bba<\/em> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"},{"lat":"31.264752","lng":"121.405153","lodgeunitid":"108549413605","html":"
+<\/div><\/a>
+¥258<\/i> <\/span><\/a><\/span>
+11\u53f7\u7ebf\u4e0a\u6d77\u897f\u7ad9\/\u540c\u6d4e\u5927\u5b66\u9644\u5c5e\u533b\u9662\/204<\/span><\/a>\u6574\u5957\u51fa\u79df\/1\u5ba40\u5385\/1\u5f20\u5e8a\/\u5b9c\u4f4f2\u4eba - 1\u6761\u8bc4\u8bba<\/em> <\/em><\/div><\/div><\/div><\/span><\/span><\/div>"}]
